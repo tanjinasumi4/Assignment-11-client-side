@@ -9,7 +9,7 @@ const Booking = () => {
      const [service,setService] = useState({})
 
     useEffect ( () =>{
-        fetch(`http://localhost:5000/services/${serviceId}`)
+        fetch(`https://ghoulish-mansion-84118.herokuapp.com/seervices/${serviceId}`)
         .then(res => res.json())
         .then(data => setService(data));
     },[])
