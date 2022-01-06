@@ -36,7 +36,7 @@ const Banner = () => {
 Namely, guests look for comfort — especially from the cozy rooms and extra amenities you provide. They also want to feel just as secure with you as they do in their own homes. Indeed, that’s why safety is one of the fundamental basics that every hotel should provide.
 
 It’s up to you to make sure your hotel has safety measures in place that make guests feel protected while they stay with you. </p>
-<h3>Welcome Our System</h3>
+<h3>Welcome to Our System</h3>
 <p>We are providing you best and best services and Resort</p>
 
 </div>
